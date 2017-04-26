@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebba158b-48d0-43a9-9b85-5789fb2f6f7e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/JamesHartanto.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,7 +20,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1140">
+            <state relative-caret-position="-795">
               <caret line="352" column="45" lean-forward="false" selection-start-line="352" selection-start-column="32" selection-end-line="352" selection-end-column="45" />
               <folding />
             </state>
@@ -234,12 +232,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1493214391383</updated>
-      <workItem from="1493214393026" duration="2565000" />
+      <workItem from="1493214393026" duration="2638000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2565000" />
+    <option name="totallyTimeSpent" value="2638000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="23" width="1278" height="669" extended-state="0" />
@@ -350,7 +348,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1140">
+        <state relative-caret-position="-795">
           <caret line="352" column="45" lean-forward="false" selection-start-line="352" selection-start-column="32" selection-end-line="352" selection-end-column="45" />
           <folding />
         </state>
