@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ebba158b-48d0-43a9-9b85-5789fb2f6f7e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="ebba158b-48d0-43a9-9b85-5789fb2f6f7e" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -592,15 +590,15 @@
       <workItem from="1493214393026" duration="7310000" />
       <workItem from="1493221882258" duration="1365000" />
       <workItem from="1493234168304" duration="9936000" />
-      <workItem from="1494258781654" duration="6917000" />
+      <workItem from="1494258781654" duration="7382000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25528000" />
+    <option name="totallyTimeSpent" value="25993000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="7" y="34" width="1278" height="669" extended-state="0" />
+    <frame x="7" y="34" width="1278" height="669" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
